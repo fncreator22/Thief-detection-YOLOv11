@@ -1,0 +1,7 @@
+path: C:/Users/sr2ma/OneDrive/Desktop/YOLO project/Thief-detection-YOLOv11/data.yaml
+train: C:/Users/sr2ma/OneDrive/Desktop/YOLO project/Thief-detection-YOLOv11/datasets/train/images
+val: C:/Users/sr2ma/OneDrive/Desktop/YOLO project/Thief-detection-YOLOv11/datasets/val/images
+test: C:/Users/sr2ma/OneDrive/Desktop/YOLO project/Thief-detection-YOLOv11/datasets/test/images
+
+nc: 3
+names: ['-', 'alert', 'normal']
